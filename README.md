@@ -8,13 +8,13 @@ This repository contains the source code for the **Group 6 Cloud Showcase** webs
 
 ---
 
-## 🚀 Live Links
+## Live Links
 * **Live Site URL:** `https://kind-river-0c0389700.8.azurestaticapps.net`
 * **GitHub Repository URL:** `https://github.com/reezmahanan/ca2-group6-webapp`
 
 ---
 
-## 👥 The Cloud Team Roles
+## The Cloud Team Roles
 Our junior cloud team is organized according to the following assignments:
 
 * **Azure Lead:** M.R.Ginige (Responsible for Task 1 & 2, Portal checks, Resource Group provisioning, and subscription cost logging)
@@ -25,7 +25,7 @@ Our junior cloud team is organized according to the following assignments:
 
 ---
 
-## 🏗️ Project Architecture & Naming Conventions
+## Project Architecture & Naming Conventions
 Following the required cloud naming standards (`lower-case` and `hyphen-separated`), this project uses the following topology:
 
 * **Resource Group Name:** `rg-ca2-groupG`
@@ -37,7 +37,7 @@ Following the required cloud naming standards (`lower-case` and `hyphen-separate
 
 ---
 
-## 💻 Technical Infrastructure
+##  Technical Infrastructure
 
 ### 1. Repository Structure
 The codebase follows a minimal, high-efficiency structure for static landing pages. All build elements are placed directly at the repository root:
@@ -55,7 +55,7 @@ Continuous Integration and Deployment are automatically handled via an Azure-gen
 
 ---
 
-## 🛠️ Step-by-Step Practical Tracking
+## Step-by-Step Practical Tracking
 
 ### Task 1 & 2: Infrastructure Setup
 1. Authenticated into the Azure Portal using an active academic subscription verification.
