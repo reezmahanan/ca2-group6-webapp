@@ -17,10 +17,11 @@ This repository contains the source code for the **Group 6 Cloud Showcase** webs
 ## The Cloud Team Roles
 Our junior cloud team is organized according to the following assignments:
 
-* **Azure Lead:** M.R.Ginige (Responsible for Task 1 & 2, Portal checks, Resource Group provisioning, and subscription cost logging)
+* **Azure Lead:** M.R.Ginige,H.M.C.B Herath (Responsible for Task 1 & 2, Portal checks, Resource Group provisioning, and subscription cost logging)
 * **Repo Lead:** M.A.Hamas (Responsible for Task 3, repository hygiene, branch management, merge conflict resolution, and synchronization)
 * **Front-End Lead:** M.R.Hanan (Responsible for Task 4, structural HTML layout, styling, and local functional browser testing)
-* **Deployment Lead:**  W.R.K.W.Hansamali ,H.M.C.B Herath (Responsible for Task 5, Azure Static Web Apps provisioning, CI/CD validation, and post-deployment text updates)
+* **Deployment Lead:**  W.R.K.W.Hansamali 
+ (Responsible for Task 5, Azure Static Web Apps provisioning, CI/CD validation, and post-deployment text updates)
 
 
 ---
