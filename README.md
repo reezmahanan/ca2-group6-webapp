@@ -9,8 +9,8 @@ This repository contains the source code for the **Group 6 Cloud Showcase** webs
 ---
 
 ## Live Links
-* **Live Site URL:** `https://kind-river-0c0389700.8.azurestaticapps.net`
-* **GitHub Repository URL:** `https://github.com/reezmahanan/ca2-group6-webapp`
+* **Live Site URL:** https://kind-river-0c0389700.8.azurestaticapps.net
+* **GitHub Repository URL:** https://github.com/reezmahanan/ca2-group6-webapp
 
 ---
 
